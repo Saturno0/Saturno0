@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Lautaro Tevez
 
-<!--
-**Saturno0/Saturno0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador con pasión por la tecnología, el diseño web y el aprendizaje continuo. Me especializo en el desarrollo front-end y tengo experiencia también con lenguajes de programación como Java y C.
 
-Here are some ideas to get you started:
+## 🧠 Tecnologías y Lenguajes que manejo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Lenguajes:**  
+  `HTML` | `CSS` | `JavaScript` | `Java` | `C`
+
+- ⚛️ **Frameworks y Librerías:**  
+  `React`
+
+## 🚀 Sobre mí
+
+- 🌱 Actualmente sigo aprendiendo y perfeccionando mis habilidades.
+- 🎯 Me interesa trabajar en proyectos desafiantes y creativos.
+- 📫 Podés contactarme a través de mi perfil o redes si querés colaborar.
+
+## 📊 GitHub Stats
+
+<!-- Opcional: activá tu propio GitHub Stats -->
+![Lautaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+¡Gracias por visitar mi perfil!
