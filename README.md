@@ -5,7 +5,7 @@ Soy un desarrollador con pasión por la tecnología, el diseño web y el aprendi
 ## 🧠 Tecnologías y Lenguajes que manejo
 
 - 💻 **Lenguajes:**  
-  `HTML` | `CSS` | `JavaScript` | `Java` | `C`
+  `HTML` | `CSS` | `JavaScript` | `Java` | `C` | `TypeScript`
 
 - ⚛️ **Frameworks y Librerías:**  
   `React`
@@ -19,7 +19,7 @@ Soy un desarrollador con pasión por la tecnología, el diseño web y el aprendi
 ## 📊 GitHub Stats
 
 <!-- Opcional: activá tu propio GitHub Stats -->
-![Lautaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Lautaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satunro0&show_icons=true&theme=radical)
 
 ---
 
