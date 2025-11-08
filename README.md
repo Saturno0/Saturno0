@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="mailto:contacto.lautaro.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-contacto.lautaro.agustint%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/lautaro-tevez-433676358"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/lautaro-tevez-433676358"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://saturno0.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portafolio-Online-141321?style=for-the-badge&logo=vercel"></a>
 </div>
 
