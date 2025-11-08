@@ -61,12 +61,12 @@
 ## 🧮 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satunro0&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satunro0&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saturno0&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturno0&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Satunro0&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=saturno0&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 ---
