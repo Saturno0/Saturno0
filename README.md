@@ -20,10 +20,10 @@
 
 ## 🧬 Sobre mí
 
-> Soy un desarrollador front-end apasionado por crear experiencias digitales accesibles y envolventes. Combino creatividad con un enfoque orientado a los detalles y a la performance. Me entusiasma aprender, compartir conocimiento y colaborar con equipos que disfrutan construir productos memorables.
+> Soy un desarrollador web fullstack apasionado por crear experiencias digitales accesibles y envolventes. Combino creatividad con un enfoque orientado a los detalles y a la performance. Me entusiasma aprender, compartir conocimiento y colaborar con equipos que disfrutan construir productos memorables.
 
 - 🚀 Actualmente impulsando proyectos web con **React** y **TypeScript**.
-- 🧭 Objetivo 2024: formar parte de un equipo donde pueda aportar diseño, código y comunicación.
+- 🧭 Objetivo 2025: formar parte de un equipo donde pueda aportar diseño, código y comunicación.
 - 💬 Si tenés una idea, ¡charlemos! Me encanta convertir conceptos en prototipos y prototipos en productos reales.
 
 ## 🧰 Tech Stack
