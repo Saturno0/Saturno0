@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <a href="mailto:contacto.lautaro.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-contacto.lautaro.agustint%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:tevezlautaro07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tevezlautaro07%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lautaro-tevez-433676358"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://saturno0.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portafolio-Online-141321?style=for-the-badge&logo=vercel"></a>
 </div>
@@ -46,9 +46,10 @@
 
 > Algunos proyectos personales y colaborativos donde apliqué buenas prácticas, diseño intuitivo y optimización del rendimiento.
 
-- **Dashboard de métricas UX** – Visualización interactiva de datos con React + Recharts.
-- **Landing creativa para start-up** – Diseño y desarrollo responsive con animaciones sutiles.
-- **API REST para notas** – Backend en Node.js con autenticación JWT y documentación con Swagger.
+### 🛒 E-Commerce Fullstack
+- **Backend** – API REST con Node.js, autenticación JWT y documentación interactiva: [API Docs](https://utn-backend-final.onrender.com/api-docs/)
+- **Frontend** – Aplicación React con TypeScript y diseño responsivo: [Ver en vivo](https://saturno0.github.io/Frontend-Final/)
+
 
 ## ⏳ Horas dedicadas al código (últimas 2 semanas)
 
